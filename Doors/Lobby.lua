@@ -28,10 +28,10 @@ PrSection:AddTextbox({
 	end	  
 })
 
-Visuals:AddSlider({
+PrSection:AddSlider({
 	Name = "Value you want to set your deaths to",
 	Min = 0,
-	Max = 500000000,
+	Max = 50000,
 	Default = gui[pfl].Stuff.Frame.TextDeaths.Text.Value,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
