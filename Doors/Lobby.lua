@@ -5,6 +5,6 @@ local plr = game:GetService("Players").LocalPlayer
 
 local _Visuals = Window:MakeTab({
 	Name = "Visuals",
-	Icon = "rbxassetid://4483345998",
+	Icon = "rbxassetid://6031763426",
 	PremiumOnly = false
 })
