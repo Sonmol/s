@@ -7,6 +7,6 @@ if game.PlaceId == 6839171747 then
     elseif floor == "Rooms" then
         print("rooms")
     end
-else
+elseif game.PlaceId == 6516141723 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/sonCoding/master/Doors/Lobby.lua"))()
 end

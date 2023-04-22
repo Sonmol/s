@@ -7,7 +7,7 @@ Thanks for using TracyHub! ^-^
 ]]
 
 local games = {
-    [{6839171747, 6516141723}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Loader.lua",
+    [{6839171747, 6516141723}] = "https://raw.githubusercontent.com/Sonmol/sonCoding/master/Doors/Loader.lua",
 }
 
 for ids, url in next, games do
