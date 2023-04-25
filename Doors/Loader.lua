@@ -3,8 +3,6 @@ if game.PlaceId == 6839171747 then
 
     if floor == "Hotel" then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/sonCoding/master/Doors/Hotel.lua"))()
-    end
-
     elseif floor == "Rooms" then
         print("rooms")
     end
